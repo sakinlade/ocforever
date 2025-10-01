@@ -3,8 +3,8 @@ import img1 from '../assets/IMG_3944.jpeg'
 import img2 from '../assets/IMG_3984.jpeg'
 import img3 from '../assets/IMG_4005.jpeg'
 import img4 from '../assets/IMG_4024.jpeg'
-import img5 from '../assets/IMG_9312.jpg'
-import img6 from '../assets/IMG_9313.jpg'
+import img5 from '../assets/image.jpg'
+import img6 from '../assets/image2.jpg'
 
 const GallerySection = () => {
   const images = [
