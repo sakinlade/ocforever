@@ -26,7 +26,7 @@ const GallerySection = () => {
           </h2>
           <div className="w-24 h-px bg-rose-400 mx-auto mb-6"></div>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto font-light">
-            A collection of our favorite moments together
+            A collection capturing a peek into our forever 💕
           </p>
         </div>
         
