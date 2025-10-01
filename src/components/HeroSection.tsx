@@ -25,7 +25,7 @@ const HeroSection = () => {
             onClick={scrollToSupport}
             className="backdrop-blur-sm border border-white/30 text-white px-6 py-3 rounded-full hover:bg-white/30 transition-all duration-300 hover:scale-105 font-medium tracking-wide"
           >
-            💕 Donate
+            Donate
           </button>
         </header>
 
