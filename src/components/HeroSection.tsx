@@ -15,7 +15,7 @@ const HeroSection = () => {
         <header className="relative z-20 flex justify-between items-center px-6 sm:px-8 lg:px-12 py-6">
           {/* Logo/Couple Name */}
           <div className="flex items-center">
-            <h2 className="text-sm sm:text-lg font-light text-white tracking-wider">
+            <h2 className="text-sm sm:text-lg font-semibold text-white tracking-wider">
               💕OCForever
             </h2>
           </div>

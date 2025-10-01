@@ -3,13 +3,17 @@ import img1 from '../assets/IMG_3944.jpeg'
 import img2 from '../assets/IMG_3984.jpeg'
 import img3 from '../assets/IMG_4005.jpeg'
 import img4 from '../assets/IMG_4024.jpeg'
+import img5 from '../assets/IMG_9312.jpg'
+import img6 from '../assets/IMG_9313.jpg'
 
 const GallerySection = () => {
   const images = [
     { src: img1, alt: "Beautiful moment 1", caption: "Our Special Day" },
     { src: img2, alt: "Beautiful moment 2", caption: "Together Forever" },
+    { src: img5, alt: "Beautiful moment 5", caption: "Cherished Memories" },
     { src: img3, alt: "Beautiful moment 3", caption: "Love & Laughter" },
-    { src: img4, alt: "Beautiful moment 4", caption: "Perfect Moments" }
+    { src: img4, alt: "Beautiful moment 4", caption: "Perfect Moments" },
+    { src: img6, alt: "Beautiful moment 6", caption: "Timeless Love" }
   ]
 
   return (
