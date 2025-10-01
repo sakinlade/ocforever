@@ -1,0 +1,6 @@
+@import "tailwindcss";
+body {
+  font-family: "Italiana", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
