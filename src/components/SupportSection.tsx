@@ -46,8 +46,7 @@ const SupportSection = () => {
           {/* Thank You Message */}
           <div className="text-center mt-12">
             <p className="text-lg text-gray-600 font-light max-w-2xl mx-auto leading-relaxed">
-              Your presence is the greatest gift, but if you wish to honor us with a gift, 
-              we are grateful for your love and support as we begin this new chapter together.
+              Your love, prayers, and presence mean the world to us. If you’d like to bless us with a gift, we’ll receive it with heartfelt gratitude as we begin this new chapter together
             </p>
             
             {/* Decorative element */}
